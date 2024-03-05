@@ -21,6 +21,15 @@
    - Null
    - Undefined
 
+2. Segunda parte: **Funciones y Objetos**
+
+   - Declaraciones básicas de funciones
+   - Parámetros obligatorios
+   - Parámetros opcionales
+   - Parámetros por defecto
+   - Parámetros REST
+   - Tipo de datos "Function"
+
 ### \* RECURSOS A USAR:
 
 - TypeScript Documentation: https://www.typescriptlang.org/
