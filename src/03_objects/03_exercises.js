@@ -10,7 +10,6 @@ var bumblebee = {
     antibalas: true,
     pasajeros: 4,
     disparar: function () {
-        // El metodo disparar es opcional
         console.log("Disparando");
     },
 };
@@ -39,8 +38,6 @@ var apocalipsis = {
     lider: true,
     miembros: ["Magneto", "Tormenta", "Psylocke", "Angel"],
 };
-// Mystique, debe poder ser cualquiera de esos dos mutantes (charles o apocalipsis)
 var mystique;
 mystique = charles;
 mystique = apocalipsis;
-//# sourceMappingURL=03_exercises.js.map

@@ -15,4 +15,3 @@
     console.log(flash);
     console.log(superman);
 })();
-//# sourceMappingURL=type.js.map

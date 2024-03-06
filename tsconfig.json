@@ -6,6 +6,7 @@
     "lib": ["ES2020", "DOM", "DOM.Iterable"],
     "skipLibCheck": true,
     "sourceMap": true, // Create source map files for emitted JavaScript files
+    "removeComments": true, // Disable emitting comments (solo en los .js pero NO en los .ts ni en los .js.map)
 
     /* Bundler mode */
     "moduleResolution": "bundler",
