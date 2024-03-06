@@ -39,6 +39,18 @@
    - Crear variables que soporten varios tipos a la vez.
    - Comprobar el tipo de un objeto.
 
+4. Cuarta parte: **Depuración de errores y analizar el archivo tsconfig.json**
+
+   - ¿Qué es tsconfig.json?: https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
+   - Aprenderemos el ¿por qué siempre compila a JavaScript?
+   - Para que nos puede servir el archivo de configuración de TypeScript
+   - Realizaremos depuración de errores directamente a nuestros archivos de TypeScript
+   - Removeremos todos los comentarios en nuestro archivo de producción
+   - Restringiremos al compilador que sólo vea ciertos archivos o carpetas
+   - Crearemos un archivo final de salida
+   - Aprenderemos a cambiar la version de JavaScript de salida
+   - Conoceremos cómo compilar automáticamente cualquier archivo que se vaya creando al momento de ser insertado a nuestro proyecto
+
 ### \* RECURSOS A USAR:
 
 - TypeScript Documentation: https://www.typescriptlang.org/

@@ -23,6 +23,6 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"]
-  // "exclude": [] // los archivos que estan en esa carpeta no se compilaran
+  "include": ["src"],
+  "exclude": ["node_modules"] // los archivos que estan en esa carpeta no se compilaran
 }
