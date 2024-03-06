@@ -41,3 +41,4 @@
     console.log(((_b = flash.getName2) === null || _b === void 0 ? void 0 : _b.call(flash)) || "No existe el método");
     console.log(((_c = superman.getName) === null || _c === void 0 ? void 0 : _c.call(superman)) || "No existe el método");
 })();
+//# sourceMappingURL=objects.js.map

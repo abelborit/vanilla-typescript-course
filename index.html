@@ -32,10 +32,18 @@
     <!-- <script type="module" src="/src/02_functions/functions.ts"></script> -->
     <!-- <script type="module" src="/src/02_functions/02_exercises.ts"></script> -->
 
-    <!-- 03_objects -->
+    <!-- 03_objects usando los archivos .ts -->
     <!-- <script type="module" src="/src/03_objects/objects.ts"></script> -->
     <!-- <script type="module" src="/src/03_objects/type.ts"></script> -->
     <!-- <script type="module" src="/src/03_objects/union-types.ts"></script> -->
     <!-- <script type="module" src="/src/03_objects/03_exercises.ts"></script> -->
+
+    <!-- 03_objects usando los archivos .js -->
+    <!-- aquí veremos que se están usando los archivos con la extensión .js y en la consola del navegador también se muestran estos archivos, es decir, los console.log() o los errores se verán desde el archivo .js pero si queremos que nos aparezca en la consola los archivo .ts aunque aquí se estén haciendo referencia a los .js, entonces hay que colocar la configuración en el tsconfig.json usando el "sourceMap": true, y luego en la terminal colocar "npx tsc --sourcemap src/03_objects/*.ts" para que me genere los archivos .js.map y haga las configuraciones necesarias en los archivos .js -->
+    <!-- también para que aparezcan los archivos .ts en el navegador, hay que revisar las configuraciones en nuestro navegador. En la consola, acceder al apartado de configuraciones y en preferencias asegurarse de tener activada la opción que dice "Enable Javascript source maps" y verificar si ya aparecen los archivos .ts -->
+    <!-- <script type="module" src="/src/03_objects/objects.js"></script> -->
+    <!-- <script type="module" src="/src/03_objects/type.js"></script> -->
+    <!-- <script type="module" src="/src/03_objects/union-types.js"></script> -->
+    <!-- <script type="module" src="/src/03_objects/03_exercises.js"></script> -->
   </body>
 </html>
