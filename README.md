@@ -30,6 +30,15 @@
    - Parámetros REST
    - Tipo de datos "Function"
 
+3. Tercera parte: **Objetos y Tipos personalizados en TypeScript**
+
+   - Objetos básicos
+   - Crear objetos con tipos específicos
+   - Crear métodos dentro de objetos
+   - Tipos personalizados
+   - Crear variables que soporten varios tipos a la vez.
+   - Comprobar el tipo de un objeto.
+
 ### \* RECURSOS A USAR:
 
 - TypeScript Documentation: https://www.typescriptlang.org/

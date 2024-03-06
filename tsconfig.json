@@ -22,4 +22,5 @@
     "noFallthroughCasesInSwitch": true
   },
   "include": ["src"]
+  // "exclude": [] // los archivos que estan en esa carpeta no se compilaran
 }
