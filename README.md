@@ -80,6 +80,16 @@
    - Asignar interfaces a las clases
    - Types vs Interfaces (https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#differences-between-type-aliases-and-interfaces)
 
+7. Séptima parte: **NameSpaces**
+
+   - TypeScript es un lenguaje de programación web, que nos permite crear objetos que nos servirán a lo largo de nuestro programa. Los namespaces, existen para ayudarnos en la re-utilización de nuestras variables, constantes y métodos.
+
+     - Explicación del ¿por qué son necesarios los namespaces?
+     - Crear namespaces
+     - Multiples namespaces en un mismo proyecto
+     - Importar namespaces
+     - Problemática que se puede presentar utilizando un namespace.
+
 ### \* RECURSOS A USAR:
 
 - TypeScript Documentation: https://www.typescriptlang.org/
