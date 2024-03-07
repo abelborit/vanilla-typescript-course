@@ -71,6 +71,15 @@
    - Clases abstractas
    - Constructores privados.
 
+6. Sexta parte: **Interfaces en TypeScript**
+
+   - ¿Por qué es necesario una interfaz?
+   - ¿Cómo creamos una interfaz básica?
+   - Crear propiedades opcionales
+   - Crear métodos
+   - Asignar interfaces a las clases
+   - Types vs Interfaces (https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#differences-between-type-aliases-and-interfaces)
+
 ### \* RECURSOS A USAR:
 
 - TypeScript Documentation: https://www.typescriptlang.org/
