@@ -51,6 +51,26 @@
    - Aprenderemos a cambiar la version de JavaScript de salida
    - Conoceremos cómo compilar automáticamente cualquier archivo que se vaya creando al momento de ser insertado a nuestro proyecto
 
+5. Quinta parte: **Clases en TypeScript**
+
+   - Crear clases en TypeScript
+   - Constructores
+   - Accesibilidad de las propiedades:
+     - Públicas
+     - Privadas
+     - Protegidas
+   - Métodos de las clases que pueden ser:
+     - Públicos
+     - Privados
+     - Protegidos
+   - Herencia
+   - Llamar funciones del padre, desde los hijos
+   - Getters
+   - Setters
+   - Métodos y propiedades estáticas
+   - Clases abstractas
+   - Constructores privados.
+
 ### \* RECURSOS A USAR:
 
 - TypeScript Documentation: https://www.typescriptlang.org/
