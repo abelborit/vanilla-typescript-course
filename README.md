@@ -90,6 +90,14 @@
      - Importar namespaces
      - Problemática que se puede presentar utilizando un namespace.
 
+8. Octava parte: **Generics - Genéricos**
+
+   - Uso de los genéricos
+   - Funciones genéricas
+   - Ejemplos prácticos sobre los genéricos
+   - Arreglos genéricos
+   - Clases genéricas
+
 ### \* RECURSOS A USAR:
 
 - TypeScript Documentation: https://www.typescriptlang.org/
