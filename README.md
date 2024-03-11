@@ -98,6 +98,17 @@
    - Arreglos genéricos
    - Clases genéricas
 
+9. Novena parte: **Decorators - Decoradores**
+
+   - ¿Qué son los decoradores? (https://www.typescriptlang.org/docs/handbook/decorators.html)
+   - ¿Para qué sirven?
+   - Decoradores de clases
+   - Decoradores de fábrica
+   - Decoradores anidados
+   - Decoradores de métodos
+   - Decoradores de propiedades
+   - Decoradores de parámetros
+
 ### \* RECURSOS A USAR:
 
 - TypeScript Documentation: https://www.typescriptlang.org/
