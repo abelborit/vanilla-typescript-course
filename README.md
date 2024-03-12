@@ -1,4 +1,4 @@
-# Vanilla TypeScript - RxJS Reactive Programming Course
+# Vanilla TypeScript Course
 
 ---
 
